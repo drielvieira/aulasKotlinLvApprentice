@@ -1,4 +1,4 @@
-package com.adrielvieira.chum
+package com.adrielvieira.ch1
 
 fun main() {
     println("Hello Koltin!!! ")
